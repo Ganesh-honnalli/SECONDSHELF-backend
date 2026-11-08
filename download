@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+!.env - Copy.example
+*Copy.env
+node_modules/
+dist/
+backend-config.js
+.DS_Store
+
+.env - Copy.example

@@ -1,0 +1,1 @@
+window.SECOND_SHELF_CONFIG = { url: '', anonKey: '', turnstileSiteKey: '' };
